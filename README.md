@@ -1,3 +1,3 @@
 # Bike_Price_Prediction
 This is an ML Model that is designed to make the prediction for motobikes, some specifications of which are given.
-Firstly we do exploratory data analysis (EDA).
+Firstly we do exploratory data analysis (EDA). In the EDA we do many things such as uploading the dataset, checking the missing values, dealing with outliers and pairplotting.
