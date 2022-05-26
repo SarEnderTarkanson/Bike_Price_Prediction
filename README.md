@@ -6,3 +6,5 @@ Firstly we do exploratory data analysis (EDA). In the EDA we do many things such
 Later we create the dummy variables with the help of the pandas function get_dummies.
 
 After transforming the necessary data into dummy variables, we start splitting the dataset into train and test.
+
+Then we do scaling, using the StandardScaler function from sklearn. We certainly scale both the train and test sets.
